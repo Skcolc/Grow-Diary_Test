@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: skcolc.github.io/Grow-Diary_Test
+  baseUrl: mysite.github.io/Cans_Grow-Diary
   ignorePatterns:
     - private
     - templates

@@ -212,14 +212,7 @@
 
 ![[GG_2026-06-11.jpg]]
 
-### Beobachtungen
 
-### Maßnahmen
-
-### Bewertung
-⭐ ?/10
-
-### Learnings
 
 ---
 
@@ -232,42 +225,35 @@
 ![[GG_2026-06-16_005.jpg]]
 ![[GG_2026-06-16_006.jpg]]
 
-### Beobachtungen Bild 1
 
-### Beobachtungen Bild 2
 
-### Beobachtungen Bild 3
+---
 
-### Beobachtungen Bild 4
+# 📅 2026-06-18
 
-### Beobachtungen Bild 5
+![[GG_2026-06-18_001.jpg]]
+![[GG_2026-06-18_002.jpg]]
+![[GG_2026-06-18_003.jpg]]
 
-### Beobachtungen Bild 6
+### Beobachtungen
 
-### Maßnahmen Bild 1
+- GG präsentiert sich weiterhin als die vitalste Pflanze im Zelt. Das Blattwerk ist überwiegend dunkelgrün und gesund, während die Buds kompakt und gleichmäßig ausgebildet sind.
+- Die Harzproduktion ist bereits sehr ausgeprägt. Besonders die Nahaufnahme zeigt eine dichte Trichomschicht auf Blüten und Sugar Leaves.
+- Ein Teil der Pistillen verfärbt sich bereits orange, gleichzeitig sind noch viele helle Stigmen vorhanden. Die Blüten befinden sich somit noch in der aktiven Reifephase.
+- Im Vergleich zu EH ist der Fade deutlich schwächer ausgeprägt. Lediglich einzelne ältere Blätter zeigen erste Alterserscheinungen.
 
-### Maßnahmen Bild 2
+### Analyse
 
-### Maßnahmen Bild 3
+- GG wirkt insgesamt sehr stabil und scheint mit dem aktuellen Dünge- und Bewässerungsschema gut zurechtzukommen.
+- Die kompakte Struktur und die starke Harzbildung sprechen für eine sehr gute Blütenentwicklung. Besonders die Haupttriebe wirken bereits recht massiv.
+- Einzelne leicht hängende Blätter könnten auf das Gießintervall oder die hohe Blütenlast zurückzuführen sein, wirken derzeit jedoch unkritisch.
+- Im direkten Vergleich fällt auf, wie unterschiedlich GG und EH trotz identischer Bedingungen reagieren. GG zeigt deutlich mehr Blattmasse und hält ihre Farbe wesentlich länger.
 
-### Maßnahmen Bild 4
+### Maßnahmen
 
-### Maßnahmen Bild 5
-
-### Maßnahmen Bild 6
-
-### Bewertung
-⭐ ?/10 (Bild 1)
-⭐ ?/10 (Bild 2)
-⭐ ?/10 (Bild 3)
-⭐ ?/10 (Bild 4)
-⭐ ?/10 (Bild 5)
-⭐ ?/10 (Bild 6)
-
-### Gesamtbewertung
-⭐ ?/10
-
-### Learnings
+- Aktuelles Schema unverändert weiterführen.
+- Fokus auf stabile Bedingungen und die weitere Ausreifung der Trichome.
+- Regelmäßig Trichome kontrollieren, da GG optisch bereits weit entwickelt wirkt und sich das Erntefenster langsam nähert.
 
 ---
 

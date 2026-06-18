@@ -731,14 +731,7 @@ Sehr starke Entwicklung. Das Netz ist großflächig gefüllt und die Blütenstä
 
 ![[EH_2026-06-11.jpg]]
 
-### Beobachtungen
 
-### Maßnahmen
-
-### Bewertung
-⭐ ?/10
-
-### Learnings
 
 ---
 
@@ -751,42 +744,39 @@ Sehr starke Entwicklung. Das Netz ist großflächig gefüllt und die Blütenstä
 ![[EH_2026-06-16_005.jpg]]
 ![[EH_2026-06-16_006.jpg]]
 
-### Beobachtungen Bild 1
 
-### Beobachtungen Bild 2
 
-### Beobachtungen Bild 3
+---
 
-### Beobachtungen Bild 4
+# 📅 2026-06-18
 
-### Beobachtungen Bild 5
+![[BBMR_2026-06-18_001.jpg]]
+![[BBMR_2026-06-18_002.jpg]]
+![[BBMR_2026-06-18_003.jpg]]
+![[BBMR_2026-06-18_004.jpg]]
 
-### Beobachtungen Bild 6
+### Beobachtungen
 
-### Maßnahmen Bild 1
+- BBMR präsentiert sich weiterhin als stärkste Pflanze im SCROG.
+- Die Buds wirken kompakt und gleichmäßig aufgebaut, besonders die oberen Colas haben in den letzten Tagen sichtbar an Volumen gewonnen.
+- Die Harzproduktion ist inzwischen sehr stark ausgeprägt und reicht weit auf die Sugar Leaves.
+- Erste natürliche Herbstfärbung bzw. leichter Fade an älteren Blättern sichtbar, die oberen Bereiche bleiben jedoch überwiegend vital.
+- Die Nahaufnahmen zeigen eine sehr hohe Trichomdichte und bereits einen zunehmenden Anteil verfärbter Pistillen.
 
-### Maßnahmen Bild 2
+### Analyse
 
-### Maßnahmen Bild 3
+- BBMR befindet sich in einer ausgezeichneten späten Blütephase.
+- Die PK-Phase scheint gut angenommen zu werden: Die Buds wirken dichter und harziger als noch vor kurzer Zeit.
+- Der leichte Fade ist in diesem Stadium unkritisch und eher ein Zeichen der fortschreitenden Reife.
+- Auffällige Mangelerscheinungen oder Stresssymptome sind aktuell nicht erkennbar.
+- Die Pflanze hat weiterhin das größte Ertragspotenzial im aktuellen Run.
 
-### Maßnahmen Bild 4
+### Maßnahmen
 
-### Maßnahmen Bild 5
-
-### Maßnahmen Bild 6
-
-### Bewertung
-⭐ ?/10 (Bild 1)
-⭐ ?/10 (Bild 2)
-⭐ ?/10 (Bild 3)
-⭐ ?/10 (Bild 4)
-⭐ ?/10 (Bild 5)
-⭐ ?/10 (Bild 6)
-
-### Gesamtbewertung
-⭐ ?/10
-
-### Learnings
+- Keine größeren Änderungen mehr vornehmen.
+- Klima und Bewässerung stabil halten.
+- Trichome in den kommenden Wochen regelmäßig kontrollieren.
+- Optional kann eine leichte Bittersalzgabe getestet werden, zwingend notwendig wirkt sie anhand der Bilder jedoch nicht.
 
 ---
 

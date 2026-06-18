@@ -340,37 +340,38 @@
 ![[EH_2026-06-16_004.jpg]]
 ![[EH_2026-06-16_005.jpg]]
 
-### Beobachtungen Bild 1
 
-### Beobachtungen Bild 2
 
-### Beobachtungen Bild 3
+---
 
-### Beobachtungen Bild 4
+# 📅 2026-06-18
 
-### Beobachtungen Bild 5
+![[EH_2026-06-18_001.jpg]]
+![[EH_2026-06-18_002.jpg]]
+![[EH_2026-06-18_003.jpg]]
+![[EH_2026-06-18_004.jpg]]
 
-### Maßnahmen Bild 1
+### Beobachtungen
 
-### Maßnahmen Bild 2
+- EH zeigt weiterhin den deutlichsten Fade im gesamten SCROG. Große Teile der älteren Fächerblätter sind inzwischen hellgrün bis gelb, während die Buds selbst weiterhin gesund wirken.
+- Die Budentwicklung schreitet trotz des Fades konstant voran. Die Colas sind gleichmäßig verteilt und gewinnen sichtbar an Volumen.
+- Die Nahaufnahmen zeigen eine sehr starke Trichombildung. Besonders die Sugar Leaves sind dicht mit Harz überzogen.
+- Ein Teil der Pistillen hat bereits begonnen sich orange zu verfärben, gleichzeitig sind noch ausreichend helle Pistillen vorhanden. Die Pflanze befindet sich also klar in der späten Blüte, ist aber noch nicht am Ende angekommen.
+- Leichte violette Verfärbungen an einzelnen Sugar Leaves und Blattspitzen sind sichtbar und wirken eher genetisch bzw. durch die Reifephase bedingt.
 
-### Maßnahmen Bild 3
+### Analyse
 
-### Maßnahmen Bild 4
+- EH investiert aktuell fast alle Ressourcen in die Blütenentwicklung. Der starke Fade wirkt eher wie ein beschleunigter Nährstoffabbau in der Endblüte als wie ein akutes Problem.
+- Da die Buds gesund aussehen, stark harzen und weiter anschwellen, scheint die Pflanze trotz der Blattfarbe noch sehr leistungsfähig zu sein.
+- Ein leichter Magnesiumbedarf ist weiterhin möglich, insbesondere da die Aufhellungen recht ausgeprägt sind. Gleichzeitig erhalten jedoch alle Pflanzen die gleiche Nährlösung, weshalb genetische Unterschiede wahrscheinlich eine große Rolle spielen.
+- Die Harzproduktion ist inzwischen auf sehr gutem Niveau. Besonders die Nahaufnahmen zeigen, dass EH deutlich frostiger geworden ist als noch vor einigen Wochen.
 
-### Maßnahmen Bild 5
+### Maßnahmen
 
-### Bewertung
-⭐ ?/10 (Bild 1)
-⭐ ?/10 (Bild 2)
-⭐ ?/10 (Bild 3)
-⭐ ?/10 (Bild 4)
-⭐ ?/10 (Bild 5)
-
-### Gesamtbewertung
-⭐ ?/10
-
-### Learnings
+- Optional beim nächsten Gießen eine leichte Gabe Bittersalz testen.
+- Keine größeren Änderungen mehr am Düngeschema vornehmen.
+- Fokus auf stabile Umweltbedingungen und die Ausreifung der Buds.
+- Trichome in den nächsten Wochen regelmäßig kontrollieren, um den optimalen Erntezeitpunkt besser einschätzen zu können.
 
 ---
 

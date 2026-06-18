@@ -383,4 +383,32 @@ Einige ältere Fächerblätter verlieren bereits Farbe oder hängen etwas stärk
 
 Insgesamt macht der SCROG einen sehr stabilen Eindruck. Die Pflanzen wirken eingespielt, die Fläche ist optimal genutzt und die nächsten Wochen werden vermutlich vor allem durch weiteres Anschwellen der Buds, stärkere Harzbildung und einen langsam einsetzenden Fade geprägt sein.
 
-Der Grow befindet sich aus optischer Sicht in einer sehr interessanten Phase: Das Fundament steht bereits, jetzt wird vor allem Gewicht und Qualität aufgebaut.
+Der Grow befindet sich aus optischer Sicht in einer sehr interessanten Phase: Das Fundament steht bereits, jetzt wird vor allem Gewicht und Qualität aufgebaut.# 📅 2026-06-18
+
+![[SCROG_2026-06-18_001.jpg]]
+![[SCROG_2026-06-18_002.jpg]]
+![[SCROG_2026-06-18_003.jpg]]
+
+### Beobachtungen
+
+- Das SCROG-Netz ist insgesamt sehr gleichmäßig gefüllt. Die Canopy weist nur geringe Höhenunterschiede auf, wodurch nahezu alle Haupttriebe vergleichbare Lichtverhältnisse erhalten.
+- Die drei Sorten zeigen inzwischen klare Unterschiede: GG bleibt dunkelgrün und kompakt, BBMR entwickelt starke Harzbildung bei gutem Blattzustand, während EH bereits deutlich in den Fade übergeht.
+- Die Buds haben in der Fläche sichtbar an Volumen gewonnen. Besonders die oberen Bereiche wirken inzwischen geschlossen und homogen.
+- Keine offensichtlichen Anzeichen von Schimmel, Schädlingsbefall oder größeren Stressreaktionen sichtbar.
+
+### Analyse
+
+- Das SCROG-Konzept ist aufgegangen. Trotz unterschiedlicher Wuchseigenschaften wurde die verfügbare Fläche sehr effizient genutzt.
+- EH zeigt zwar starke Vergilbung, die Blütenentwicklung wirkt davon jedoch kaum beeinträchtigt. GG und BBMR kompensieren dies durch ihre stabile Blattmasse und sehr gute Budstruktur.
+- Die Ausleuchtung scheint ausgewogen zu sein. Es sind keine ausgeprägten Hotspots oder stark unterentwickelten Bereiche erkennbar.
+- Insgesamt wirkt das Setup auf der Zielgeraden: Der Fokus liegt nun weniger auf Wachstum und zunehmend auf Ausreifung, Harzbildung und Beobachtung des Erntefensters.
+
+### Maßnahmen
+
+- Keine größeren Eingriffe mehr vornehmen.
+- Vergilbte oder abgestorbene Blätter nur entfernen, wenn sie sich leicht lösen oder die Luftzirkulation behindern.
+- Trichome regelmäßig kontrollieren und die Sorten einzeln bewerten, da sich die Reifezeit sichtbar unterscheidet.
+- Klima stabil halten und die letzten Wochen möglichst stressfrei auslaufen lassen.
+
+---
+
